@@ -1,3 +1,3 @@
 # dsci_100_proposal
 
-Authors: Sonja Deng, YiXiao Liu, Austin Lee, Muhammad Saad
+Authors: Sonja Deng, Yixiao Liu, Austin Lee, Muhammad Saad
